@@ -24,19 +24,19 @@
 
 ### :woman_technologist: About Me :
 
-👀 I am a Computer Science Student at USW<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+🖥️ I am a Computer Science Student at USW
 
 <br>
 
-🌱 I Have experiences with C++, C, Bash and Python
+💡 I Have experiences with C++, C, Bash and Python
 
 <br>
 
-📫 I Enjoy Working on Linux Systems and Networking
+🐧 I Enjoy Working on Linux Systems and Networking
 
 <br>
 
-🌱 Some of my favourite hobbies include Reading and Drawing
+📖 Some of my favourite hobbies include Reading and Drawing
 
 
 ---
