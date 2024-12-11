@@ -1,8 +1,12 @@
 ## Hi there 👋
 🔭 Hi My Name is Dylan Dennis
+
 🖥️Im a Computer Science Student as USW
+
 💡I have experience with C++, C, Bash And Python
+
 🐧I Enjoy working on Linux
+
 📖Some of my favourite pastimes include Reading and Drawing 
 
 <!--
